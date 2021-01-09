@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ChattingAppProject</string>
+    <string-array name="users">
+        <item>sarah</item>
+        <item>sami</item>
+        <item>celia</item>
+        <item>selena</item>
+        <item>ahmad</item>
+        <item>anthony</item>
+        <item>tamer</item>
+        <item>tarek</item>
+        <item>abed</item>
+        <item>bob</item>
+        <item>nour</item>
+        <item>aya</item>
+        <item>zizi</item>
+        <item>elissa</item>
+        <item>mike</item>
+        <item>christina</item>
+        <item>rana</item>
+        <item>jack</item>
+        <item>adam</item>
+        <item>john</item>
+    </string-array>
+    <string-array name="Timestamp">
+        <item>lastseen 2:00</item>
+        <item>lastseen 2:10</item>
+        <item>lastseen 5:05</item>
+        <item>lastseen 2:21</item>
+        <item>lastseen 8:19</item>
+        <item>lastseen 12:20</item>
+        <item>lastseen 5:30</item>
+        <item>lastseen 7:45</item>
+        <item>Online</item>
+        <item>Online</item>
+        <item>lastseen 8:12</item>
+        <item>lastseen 6:13</item>
+        <item>lastseen 5:13</item>
+        <item>lastseen 11:11</item>
+        <item>lastseen 10:11</item>
+        <item>lastseen 2:12</item>
+        <item>lastseen 1;12</item>
+        <item>lastseen 8:08</item>
+        <item>lastseen 4:23</item>
+        <item>lastseen 5:29</item>
+    </string-array>
+</resources>
